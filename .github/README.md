@@ -3,7 +3,7 @@
 
 Hey there! 
 
-I taught at [VK University](https://vk.com/wall-91635769_99) and [Summer Informatics School](http://lksh.ru), organised CocoaHeads chapter in St. Petersburg, co-founded CocoaHeads Russia, and now travel the world to share my knowledge about mobile development and Apple ecosystem. If you'd like me to come to your conference or company for a talk or a workshop, [please drop me a line](/contact/).
+I taught at [VK University](https://vk.com/wall-91635769_99) and [Summer Informatics School](http://lksh.ru), organised CocoaHeads chapter in St. Petersburg, co-founded CocoaHeads Russia, and now travel the world to share my knowledge about mobile development and Apple ecosystem. If you'd like me to come to your conference or company for a talk or a workshop, [please drop me a line](https://drobinin.com/contact/).
 
 # Talks 
 |Description|Link|Event|Date|
