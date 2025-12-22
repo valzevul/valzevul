@@ -1,58 +1,35 @@
-<div align="left">
-  I craft iOS apps that delight users and win awards. From startups to Fortune 500's, I've shipped products acquired by Twitter, featured by Apple, and trusted by millions.
-  <br/>
-  <br/>
-  
-  ✅ Currently **available** for contract opportunities → [work@drobinin.com](mailto:work@drobinin.com)
-  
-  <br/>
-  
-  SwiftUI • TCA • AI/ML • HIPAA • BLE • NFC • OWASP • Core Data • ARKit • HealthKit
+Founder & iOS Engineer. Native Swift for iPhone, iPad, Mac, Apple Watch, Apple TV, and Vision Pro.
 
-</div>
+Apps acquired by Twitter · CES Innovation Award · Featured by Apple
 
----
+<br>
 
-## 📱 Recent Apps
+> **Need an iOS or Vision Pro developer?**
+>
+> Currently available for contract work · [**View services & pricing →**](https://drobinin.com/consulting)
 
-<div align="left">
-  
-| <a href="https://drobinin.com/apps/lexie"><img src="https://drobinin.com/assets/lexie-logo.png" width="64" alt="Lexie"/></a> | <a href="https://drobinin.com/apps/residency"><img src="https://drobinin.com/assets/residency-logo.png" width="64" alt="Residency"/></a> | <a href="https://drobinin.com/apps/silk"><img src="https://drobinin.com/assets/silk-logo.png" width="64" alt="Silk"/></a> | <a href="https://drobinin.com/apps/fermento"><img src="https://drobinin.com/assets/fermento-logo.jpeg" width="64" alt="Fermento"/></a> | <a href="https://drobinin.com/apps/notch"><img src="https://drobinin.com/assets/notch-logo.png" width="64" alt="Notch"/></a> | <a href="https://drobinin.com/apps/pathflip"><img src="https://drobinin.com/assets/pathflip-logo.png" width="64" alt="PathFlip"/></a> | <a href="https://drobinin.com/apps/layered"><img src="https://drobinin.com/assets/layered-logo.png" width="64" alt="Layered"/></a> | <a href="https://drobinin.com/apps/2025/puregym-apple-wallet/"><img src="https://drobinin.com/assets/puregym-apple-wallet-icon.png" width="64" alt="PureGym"/></a> |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <a href="https://drobinin.com/apps/2020/epsy/"><img src="https://drobinin.com/assets/epsy-logo.png" width="64" alt="Epsy"/></a> | <a href="https://drobinin.com/apps/2017/it-is-called-Sphere-but-thats-a-secret/"><img src="https://drobinin.com/assets/sphere-logo.png" width="64" alt="Sphere"/></a> | <a href="https://drobinin.com/apps/2017/swaypay/"><img src="https://drobinin.com/assets/swaypay-logo.png" width="64" alt="SwayPay"/></a> | <a href="https://drobinin.com/apps/2017/smotreshka/"><img src="https://drobinin.com/assets/smotreshka-logo.png" width="64" alt="Smotreshka"/></a> | <a href="https://drobinin.com/apps/2017/cryptotrader/"><img src="https://drobinin.com/assets/cryptotrader-logo.png" width="64" alt="CryptoTrader"/></a> | <a href="https://drobinin.com/apps/2016/stepik/"><img src="https://drobinin.com/assets/stepik-logo.png" width="64" alt="Stepik"/></a> | <a href="https://drobinin.com/apps/2016/tobox-and-tobox-seller/"><img src="https://drobinin.com/assets/tobox-logo.jpeg" width="64" alt="Tobox"/></a> | <a href="https://drobinin.com/apps/2015/brie/"><img src="https://drobinin.com/assets/brie-logo.jpg" width="64" alt="Brie"/></a> |
+<br>
 
-<br/>
+### Recent Apps&nbsp;&nbsp;·&nbsp;&nbsp;[View all →](https://drobinin.com/apps)
 
-[**→ View all projects**](https://drobinin.com/apps)
-
-</div>
+<a href="https://drobinin.com/apps/residency"><img src="https://drobinin.com/assets/residency-logo.png" width="64" style="border-radius:14px" alt="Residency"/></a>&nbsp;&nbsp;<a href="https://drobinin.com/apps/lexie"><img src="https://drobinin.com/assets/lexie-logo.png" width="64" style="border-radius:14px" alt="Lexie"/></a>&nbsp;&nbsp;<a href="https://drobinin.com/apps/fermento"><img src="https://drobinin.com/assets/fermento-logo.jpeg" width="64" style="border-radius:14px" alt="Fermento"/></a>&nbsp;&nbsp;<a href="https://drobinin.com/apps/silk"><img src="https://drobinin.com/assets/silk-logo.png" width="64" style="border-radius:14px" alt="Silk"/></a>&nbsp;&nbsp;<a href="https://drobinin.com/apps/notch"><img src="https://drobinin.com/assets/notch-logo.png" width="64" style="border-radius:14px" alt="Notch"/></a>&nbsp;&nbsp;<a href="https://drobinin.com/apps/layered"><img src="https://drobinin.com/assets/layered-logo.png" width="64" style="border-radius:14px" alt="Layered"/></a>
 
 ---
 
-<div align="center">
+### Writing&nbsp;&nbsp;·&nbsp;&nbsp;[View all →](https://drobinin.com/writing/)
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>✍️ Writing</h3>
-      <p>Technical articles on iOS development, Swift, and mobile engineering</p>
-      <a href="https://drobinin.com/posts"><strong>→ Read blog</strong></a>
-    </td>
-    <td align="center" width="33%">
-      <h3>🎤 Speaking</h3>
-      <p>Conference talks on iOS security, performance, and architecture</p>
-      <a href="https://drobinin.com/talks"><strong>→ View talks</strong></a>
-    </td>
-    <td align="center" width="33%">
-      <h3>📮 Newsletter</h3>
-      <p>Weekly insights for 500+ iOS developers every Tuesday</p>
-      <a href="https://drobinin.com/newsletter"><strong>→ Subscribe</strong></a>
-    </td>
-  </tr>
-</table>
+[**How I accidentally became PureGym's unofficial Apple Wallet developer**](https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/)&nbsp;&nbsp;`649↑`&nbsp;`176💬`<br>
+Tired of fumbling with the PureGym app for 47 seconds every morning, I reverse-engineered their API to build an Apple Wallet pass.
 
-### Learn more at [drobinin.com](https://drobinin.com)
+[**You can't cURL a Border**](https://drobinin.com/posts/you-cant-curl-a-border/)&nbsp;&nbsp;`471↑`&nbsp;`285💬`<br>
+Country borders don't return JSON, they return judgment. So I built a state machine for travel.
 
-[**GitHub**](https://github.com/valzevul) • [**LinkedIn**](https://linkedin.com/in/drobinin) • [**Email**](mailto:work@drobinin.com)
+[**Designing Software for Things that Rot**](https://drobinin.com/posts/designing-software-for-things-that-rot/)&nbsp;&nbsp;`177↑`&nbsp;`44💬`<br>
+How a £150 eBay fridge and a decision tree taught me to stop asking internet strangers if my salami would kill me.
 
-</div>
+[**The Whole App is a Blob**](https://drobinin.com/posts/the-whole-app-is-a-blob/)&nbsp;&nbsp;`163↑`&nbsp;`96💬`<br>
+I tried to prepare for life in French-speaking Canada by turning language drills into a Tamagotchi.
+
+---
+
+[drobinin.com](https://drobinin.com)&nbsp;&nbsp;·&nbsp;&nbsp;[LinkedIn](https://linkedin.com/in/valzevul)&nbsp;&nbsp;·&nbsp;&nbsp;[Hire Me](https://drobinin.com/consulting)
