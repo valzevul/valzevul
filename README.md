@@ -2,7 +2,7 @@ Available for iOS & Vision Pro contract work (UK / Canada / Remote) → [**drobi
 
 ---
 
-### Featured: Murmur
+### Featured Launch &nbsp;&nbsp;·&nbsp;&nbsp; [see all →](https://drobinin.com/apps?utm_source=github&utm_medium=profile&utm_campaign=readme)
 
 <a href="https://drobinin.com/apps/murmur/?utm_source=github&utm_medium=profile&utm_campaign=readme"><img src="https://drobinin.com/assets/murmur-logo.png" width="96" style="border-radius:22px" align="left" alt="Murmur" hspace="16"/></a>
 
@@ -14,15 +14,7 @@ Built with SwiftUI, TCA, and ElevenLabs voice. *Featured in App Store's Best New
 
 ---
 
-### Recent Apps&nbsp;&nbsp;·&nbsp;&nbsp;[see all →](https://drobinin.com/apps?utm_source=github&utm_medium=profile&utm_campaign=readme)
-
-<a href="https://drobinin.com/apps/metrics/?utm_source=github&utm_medium=profile&utm_campaign=readme"><img src="https://drobinin.com/assets/metrics-logo.png" width="72" style="border-radius:16px" alt="Metrics"/></a>&nbsp;&nbsp;<a href="https://drobinin.com/apps/docket/?utm_source=github&utm_medium=profile&utm_campaign=readme"><img src="https://drobinin.com/assets/docket-logo.png" width="72" style="border-radius:16px" alt="Docket"/></a>&nbsp;&nbsp;<a href="https://drobinin.com/apps/glint/?utm_source=github&utm_medium=profile&utm_campaign=readme"><img src="https://drobinin.com/assets/glint-logo.png" width="72" style="border-radius:16px" alt="Glint"/></a>&nbsp;&nbsp;<a href="https://drobinin.com/apps/constellation/?utm_source=github&utm_medium=profile&utm_campaign=readme"><img src="https://drobinin.com/assets/constellation-logo.png" width="72" style="border-radius:16px" alt="Constellation"/></a>&nbsp;&nbsp;<a href="https://drobinin.com/apps/fermento/?utm_source=github&utm_medium=profile&utm_campaign=readme"><img src="https://drobinin.com/assets/fermento-logo.png" width="72" style="border-radius:16px" alt="Fermento"/></a>&nbsp;&nbsp;
-
-<a href="https://drobinin.com/apps/lexie/?utm_source=github&utm_medium=profile&utm_campaign=readme"><img src="https://drobinin.com/assets/lexie-logo.png" width="72" style="border-radius:16px" alt="Lexie"/></a>&nbsp;&nbsp;<a href="https://drobinin.com/apps/residency/?utm_source=github&utm_medium=profile&utm_campaign=readme"><img src="https://drobinin.com/assets/residency-logo.png" width="72" style="border-radius:16px" alt="Residency"/></a>&nbsp;&nbsp;<a href="https://drobinin.com/apps/layered/?utm_source=github&utm_medium=profile&utm_campaign=readme"><img src="https://drobinin.com/assets/layered-logo.png" width="72" style="border-radius:16px" alt="Layered"/></a>&nbsp;&nbsp;<a href="https://drobinin.com/apps/notch/?utm_source=github&utm_medium=profile&utm_campaign=readme"><img src="https://drobinin.com/assets/notch-logo.png" width="72" style="border-radius:16px" alt="Notch"/></a>&nbsp;&nbsp;<a href="https://drobinin.com/apps/pathflip/?utm_source=github&utm_medium=profile&utm_campaign=readme"><img src="https://drobinin.com/assets/pathflip-logo.png" width="72" style="border-radius:16px" alt="PathFlip"/></a>
-
----
-
-### Recent Posts&nbsp;&nbsp;·&nbsp;&nbsp;[see all →](https://drobinin.com/posts/?utm_source=github&utm_medium=profile&utm_campaign=readme)
+### Featured Posts&nbsp;&nbsp;·&nbsp;&nbsp;[see all →](https://drobinin.com/posts/?utm_source=github&utm_medium=profile&utm_campaign=readme)
 
 [**Am I a Bad Friend?**](https://drobinin.com/posts/am-i-a-bad-friend/?utm_source=github&utm_medium=profile&utm_campaign=readme)&nbsp;&nbsp;`251↑`&nbsp;`151 💬`<br>
 I turned 1.2M messages from 20 years of chats into a structured vault to win friends and influence people. Instead I learnt about my emotional bandwidth, endearment cycles, and friendship half-lives.
