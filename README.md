@@ -1,14 +1,10 @@
-Available for iOS & Vision Pro contract work (UK / Canada / Remote) → [**drobinin.com/consulting**](https://drobinin.com/consulting?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=hire)
-
----
-
 ### Featured Launch &nbsp;&nbsp;·&nbsp;&nbsp; [see all →](https://drobinin.com/apps?utm_source=github&utm_medium=profile&utm_campaign=readme)
 
 <a href="https://drobinin.com/apps/murmur/?utm_source=github&utm_medium=profile&utm_campaign=readme"><img src="https://drobinin.com/assets/murmur-logo.png" width="96" style="border-radius:22px" align="left" alt="Murmur" hspace="16"/></a>
 
 [**Murmur**](https://drobinin.com/apps/murmur/?utm_source=github&utm_medium=profile&utm_campaign=readme) is an exposure therapy app for practicing doctor appointments, job interviews, and all kinds of tough conversations. The AI voice pauses, interrupts, says things you weren't ready for, and shows emotions.
 
-Built with SwiftUI, TCA, and ElevenLabs voice. *Featured in App Store's Best New Apps · ElevenLabs Grant recipient · Featured by Google Ventures*
+Built with SwiftUI, TCA, and ElevenLabs voice. *Featured as US App Store's App of the Day · ElevenLabs Grant recipient · Featured by Google Ventures*
 
 <br clear="left"/>
 
